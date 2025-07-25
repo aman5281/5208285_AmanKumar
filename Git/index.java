@@ -7,5 +7,8 @@ public class index {
 
 //        This code is from Dev branch
         double d = 0.0;
+
+        // Pull through github
+        float b = 0.55;
     }
 }
